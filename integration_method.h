@@ -104,7 +104,7 @@ T Integrazione_Legendre(
     T alpha=(min - max) / (z1 - z2);
     T beta=(min - alpha * z1);
 
-    Lettura_file(x_i, weight, "/mnt/c/Users/User/Desktop/info/Pesi_gaussiani/Legendre_p" + to_string(n) + ".txt");
+    Lettura_file(x_i, weight, "file_path/Legendre_p" + to_string(n) + ".txt");
     
     T I = 0;
     for(int i = 0; i < weight.size(); i++)  I += weight.at(i) * f(alpha * x_i.at(i) + beta, parameter);
@@ -124,7 +124,7 @@ T Integrazione_Laguerre(
     vector<T> weight; 
     vector<T> x_i; 
 
-    Lettura_file(x_i, weight, "/mnt/c/Users/User/Desktop/info/Pesi_gaussiani/Legendre_p" + to_string(n) + ".txt");
+    Lettura_file(x_i, weight, "file_path/Laguerre_p" + to_string(n) + ".txt");
 
     //f(x + a) e^(x + a) e^(-x - a) = f(x + a) e^(x) * w
     T I = 0;
@@ -156,7 +156,7 @@ T Integrazione_Hermite(
     vector<T> weight; 
     vector<T> x_i;
 
-    Lettura_file(x_i, weight, "/mnt/c/Users/User/Desktop/info/Pesi_gaussiani/Legendre_p" + to_string(n) + ".txt");
+    Lettura_file(x_i, weight, "file_path/Hermite_p" + to_string(n) + ".txt");
     
     T I = 0;
     if(min == (-1) * inf(T)){
