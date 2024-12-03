@@ -46,8 +46,10 @@ The **three-body problem** is a classic problem in celestial mechanics, where th
 - Implementation of numerical solvers (Euler, RK2, RK4) for the equations of motion.
 - Energy conservation verification.
 - Dynamic visualization of orbits in 3D space.
-
-![Three-Body Problem Simulation](images/three_body_simulation.png)
+<p align="center">
+  <img src="3Body_3D.png" alt="Three-Body Problem Orbit Simulation" width="45%">
+  <img src="3Body_energy.png" alt="Three-Body Problem Energy Simulation" width="45%">
+</p>
 
 ---
 
@@ -108,19 +110,6 @@ The **Newton fractal** is a fascinating visualization generated from the iterati
 
 ---
 
-## Tools and Libraries Used
-- **C++** and **Python** for numerical simulations.
-- Visualization tools such as Matplotlib (Python) for plotting results.
-- Integration methods: Euler, RK2, RK4.
-- Fast Fourier Transform (FFT) for frequency analysis.
-
----
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/8lack8erry/Computational-physic.git
-   cd Computational-physic
 
 
 
