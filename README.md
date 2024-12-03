@@ -111,7 +111,7 @@ The **Newton fractal** is a visualization generated from the iterative applicati
 <p align="center">
   <img src="NewtonFractal_center.png" alt="Newton Fractal" width="33.5%">
   <img src="NewtonFractal_depth.png" alt="Newton Fractal" width="45%">
-</p>---
+</p>
 
 
 
