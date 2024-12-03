@@ -33,3 +33,7 @@ The library offers algorithms for finding the roots of functions:
 - **Newton-Raphson Method**
 
 ---
+
+# Computational physics
+
+
