@@ -1,7 +1,6 @@
 // g++ -o DoublePendulum DoublePendulum.cpp -lsfml-graphics -lsfml-window -lsfml-system -lm -std=c++17
 
 #include <iostream>
-#include <iomanip>
 #include <cmath>
 #include <vector>
 #include <fstream>
