@@ -60,7 +60,7 @@ The **double pendulum** is a nonlinear dynamical system that exhibits chaotic be
 - Numerical solution of equations of motion using RK4 integration.
 - Analysis of the chaotic behavior and visualization of the pendulum's trajectories.
 
-![Double Pendulum Simulation](images/double_pendulum_simulation.png)
+![Double Pendulum Simulation](doublePendulum_screenshot.png)
 
 ---
 
