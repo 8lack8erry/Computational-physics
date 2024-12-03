@@ -82,7 +82,7 @@ The **Lorenz attractor** is a system of ordinary differential equations that mod
 - Visualization of the butterfly-shaped attractor in 3D space.
 
 <div align="center">
-  <img src="LorenzAttractor_3D.png" alt="Lorenz Attractor" width="300">
+  <img src="LorenzAttractor_3D.png" alt="Lorenz Attractor" width="450">
 </div>
 ---
 
@@ -95,7 +95,7 @@ This project studies the **harmonic oscillator** using the **Fast Fourier Transf
 - Visualization of the oscillatory motion and its frequency spectrum.
 
 <div align="center">
-  <img src="FFT_ArmonicOscillator.png" alt="Harmonic Oscillator with FFT" width="500">
+  <img src="FFT_ArmonicOscillator.png" alt="Harmonic Oscillator with FFT" width="450">
 </div>
 
 ---
@@ -109,7 +109,7 @@ The **Newton fractal** is a visualization generated from the iterative applicati
 - Color-coded visualization of convergence to different roots.
 
 <p align="center">
-  <img src="NewtonFractal_center.png" alt="Newton Fractal" width="32%">
+  <img src="NewtonFractal_center.png" alt="Newton Fractal" width="33%">
   <img src="NewtonFractal_depth.png" alt="Newton Fractal" width="45%">
 </p>---
 
