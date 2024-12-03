@@ -7,7 +7,7 @@
 #include <string>
 #include <iomanip>
 #include <ctime>
-#include "Ode_Resolution.h"
+#include "ode_resolution.h"
 
 using namespace std;
 
