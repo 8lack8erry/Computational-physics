@@ -63,6 +63,7 @@ The **double pendulum** is a nonlinear dynamical system that exhibits chaotic be
 <div align="center">
   <img src="doublePendulum_screenshot.png" alt="Double Pendulum Simulation" width="300">
 </div>
+
 ---
 
 ## 3. Infinite Square Well in Quantum Mechanics
@@ -84,6 +85,7 @@ The **Lorenz attractor** is a system of ordinary differential equations that mod
 <div align="center">
   <img src="LorenzAttractor_3D.png" alt="Lorenz Attractor" width="450">
 </div>
+
 ---
 
 ## 5. Harmonic Oscillator and Fast Fourier Transform (FFT)
