@@ -33,15 +33,3 @@ The library offers algorithms for finding the roots of functions:
 - **Newton-Raphson Method**
 
 ---
-
-## Getting Started
-
-### Prerequisites
-This library requires a C++ compiler that supports C++11 or later.
-
-### Usage
-Include the necessary header files in your project:
-```cpp
-#include "Ode_Resolution.h"
-#include "Metodi_integrazione_2.h"
-#include "zeri_di_funzione.h"
