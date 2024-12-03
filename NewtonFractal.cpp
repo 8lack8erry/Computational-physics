@@ -31,7 +31,7 @@ int main(int argc, char **argv) {
     double max = 2.;
     pair<complex<double>, int> cont;
 
-    ofstream file("data_Es20.dat"); // creazione file di destinazione
+    ofstream file("NewtonFractal.dat"); // creazione file di destinazione
     file << "Re(z)\tIm(z)\tn\ttheta\n"; // intestazione file di destinazione
 
     // definizione griglia
