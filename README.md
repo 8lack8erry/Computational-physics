@@ -109,7 +109,7 @@ The **Newton fractal** is a visualization generated from the iterative applicati
 - Color-coded visualization of convergence to different roots.
 
 <p align="center">
-  <img src="NewtonFractal_center.png" alt="Newton Fractal" width="33%">
+  <img src="NewtonFractal_center.png" alt="Newton Fractal" width="34%">
   <img src="NewtonFractal_depth.png" alt="Newton Fractal" width="45%">
 </p>---
 
