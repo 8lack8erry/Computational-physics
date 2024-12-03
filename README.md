@@ -72,8 +72,6 @@ This simulation solves the **infinite square well problem** in quantum mechanics
 - Numerical solution of the Schrödinger equation.
 - Visualization of wavefunctions and energy eigenstates.
 
-![Infinite Square Well](images/infinite_square_well.png)
-
 ---
 
 ## 4. Lorenz Attractor
@@ -83,33 +81,37 @@ The **Lorenz attractor** is a system of ordinary differential equations that mod
 - Simulation of the Lorenz system.
 - Visualization of the butterfly-shaped attractor in 3D space.
 
-![Lorenz Attractor](images/lorenz_attractor.png)
-
+<div align="center">
+  <img src="LorenzAttractor_3D.png" alt="Lorenz Attractor" width="300">
+</div>
 ---
 
 ## 5. Harmonic Oscillator and Fast Fourier Transform (FFT)
-This project studies the **harmonic oscillator** using the **Fast Fourier Transform (FFT)** to analyze its frequency spectrum. This approach demonstrates the usefulness of FFT in understanding periodic motion.
+This project studies the **harmonic oscillator** using the **Fast Fourier Transform (FFT)** to analyze its frequency spectrum. 
 
 ### Features:
 - Numerical simulation of a harmonic oscillator.
 - Application of FFT to extract frequency components.
 - Visualization of the oscillatory motion and its frequency spectrum.
 
-![Harmonic Oscillator with FFT](images/harmonic_oscillator_fft.png)
+<div align="center">
+  <img src="FFT_ArmonicOscillator.png" alt="Harmonic Oscillator with FFT" width="300">
+</div>
 
 ---
 
 ## 6. Newton Fractal
-The **Newton fractal** is a fascinating visualization generated from the iterative application of Newton's method to complex functions. The fractal demonstrates the convergence behavior of the method.
+The **Newton fractal** is a visualization generated from the iterative application of Newton's method to complex functions.
 
 ### Features:
 - Implementation of Newton's method for root-finding in the complex plane.
 - Generation of fractals based on the method's convergence.
 - Color-coded visualization of convergence to different roots.
 
-![Newton Fractal](images/newton_fractal.png)
-
----
+<p align="center">
+  <img src="NewtonFractal_center.png" alt="Newton Fractal" width="45%">
+  <img src="NewtonFractal_depth.png" alt="Newton Fractal" width="45%">
+</p>---
 
 
 
