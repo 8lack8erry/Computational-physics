@@ -61,7 +61,7 @@ The **double pendulum** is a nonlinear dynamical system that exhibits chaotic be
 - Analysis of the chaotic behavior and visualization of the pendulum's trajectories.
 
 <div align="center">
-  <img src="doublePendulum_screenshot.png" alt="Double Pendulum Simulation" width="250">
+  <img src="doublePendulum_screenshot.png" alt="Double Pendulum Simulation" width="300">
 </div>
 ---
 
