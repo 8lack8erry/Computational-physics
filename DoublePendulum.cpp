@@ -6,7 +6,7 @@
 #include <cstdlib>
 #include <string>
 #include "SFML/Graphics.hpp"
-#include "Ode_Resolution.h"
+#include "ode_resolution.h"
 
 using namespace std;
 using namespace sf;
