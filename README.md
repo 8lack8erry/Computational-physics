@@ -95,7 +95,7 @@ This project studies the **harmonic oscillator** using the **Fast Fourier Transf
 - Visualization of the oscillatory motion and its frequency spectrum.
 
 <div align="center">
-  <img src="FFT_ArmonicOscillator.png" alt="Harmonic Oscillator with FFT" width="300">
+  <img src="FFT_ArmonicOscillator.png" alt="Harmonic Oscillator with FFT" width="400">
 </div>
 
 ---
@@ -109,7 +109,7 @@ The **Newton fractal** is a visualization generated from the iterative applicati
 - Color-coded visualization of convergence to different roots.
 
 <p align="center">
-  <img src="NewtonFractal_center.png" alt="Newton Fractal" width="45%">
+  <img src="NewtonFractal_center.png" alt="Newton Fractal" width="35%">
   <img src="NewtonFractal_depth.png" alt="Newton Fractal" width="45%">
 </p>---
 
