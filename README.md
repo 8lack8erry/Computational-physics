@@ -74,7 +74,7 @@ This simulation solves the **infinite square well problem** in quantum mechanics
 - Visualization of wavefunctions and energy eigenstates.
   
 <div align="center">
-  <img src="infinte well in QM/video.gif" alt="Double Pendulum Simulation" width="300">
+  <img src="infinite well in QM/video.gif" alt="Infinite Square Well Simulation" width="300">
 </div>
 
 ---
