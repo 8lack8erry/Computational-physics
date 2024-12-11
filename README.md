@@ -72,6 +72,10 @@ This simulation solves the **infinite square well problem** in quantum mechanics
 ### Features:
 - Numerical solution of the Schrödinger equation.
 - Visualization of wavefunctions and energy eigenstates.
+  
+<div align="center">
+  <img src="infinte well in QM/video.gif" alt="Double Pendulum Simulation" width="300">
+</div>
 
 ---
 
