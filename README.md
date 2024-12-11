@@ -73,10 +73,9 @@ This simulation solves the **infinite square well problem** in quantum mechanics
 - Numerical solution of the Schrödinger equation.
 - Visualization of wavefunctions and energy eigenstates.
 
-<video width="640" height="360" controls>
-  <source src="./infinite well in QM/video1.mp4" type="video/mp4">
-</video>
-
+<div align="center">
+  <img src="infinite well in QM/video.gif" alt="Infinite Square Well Simulation" width="300">
+</div>
 ---
 
 ## 4. Lorenz Attractor
